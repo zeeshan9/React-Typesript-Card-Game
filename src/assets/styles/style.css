@@ -13,3 +13,17 @@
     width: 10rem;
 }
 
+.indexz {
+    z-index: 999999;
+}
+
+.toaster {
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    z-index: 9;
+}
+
+.min-heigth {
+    min-height: 14rem;
+}
